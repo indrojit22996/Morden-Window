@@ -1,0 +1,31 @@
+body {
+  background-color: #e040fb;
+}
+.bttn-win {
+  margin-top: 22%;
+  text-align: center;
+  margin-left: 22%;
+}
+.btn-con {
+  margin-right: 10%;
+}
+.moden-heading {
+  text-align: center;
+  margin-top: 5%;
+  font-size: 48px;
+}
+.moden-para {
+  padding: 12px;
+}
+.morden {
+  height: 40vh;
+  width: 50vw;
+  background-color: #fff;
+  /* z-index: 3; */
+}
+.hidden {
+  display: none;
+}
+.close-morden {
+  text-align: right;
+}
